@@ -1,0 +1,182 @@
+[
+    {
+        "id": "sudaderas-01",
+        "titulo": "Sudadera Nike Gris",
+        "imagen": "./img/sudaderas/01.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 650
+    },
+    {
+        "id": "sudaderas-02",
+        "titulo": "Sudadera Nike Negra",
+        "imagen": "./img/sudaderas/02.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "sudaderas-03",
+        "titulo": "Sudadera Seleccion Mexicana",
+        "imagen": "./img/sudaderas/03.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "sudaderas-04",
+        "titulo": "Sudaderas Nike",
+        "imagen": "./img/sudaderas/04.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 450
+    },
+    {
+        "id": "sudaderas-05",
+        "titulo": "Sudadera Nike Negra",
+        "imagen": "./img/sudaderas/05.jpg",
+        "categoria": {
+            "nombre": "Sudaderas",
+            "id": "sudaderas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Polo",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 350
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta Polo",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 450
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Clasica",
+        "imagen": "./img/camisetas/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 500
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta Pull y Bear",
+        "imagen": "./img/camisetas/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 900
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Edicion One piece",
+        "imagen": "./img/camisetas/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Camiseta Edicion One piece",
+        "imagen": "./img/camisetas/06.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1100
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Camiseta Clasica",
+        "imagen": "./img/camisetas/07.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 350
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Camiseta Pull y Bear",
+        "imagen": "./img/camisetas/08.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "short-01",
+        "titulo": "Short Mezclilla",
+        "imagen": "./img/short/01.jpg",
+        "categoria": {
+            "nombre": "Short",
+            "id": "short"
+        },
+        "precio": 350
+    },
+    {
+        "id": "short-2",
+        "titulo": "Short Mezclilla",
+        "imagen": "./img/short/02.jpg",
+        "categoria": {
+            "nombre": "Short",
+            "id": "short"
+        },
+        "precio": 500
+    },
+    {
+        "id": "short-03",
+        "titulo": "Short Clasico",
+        "imagen": "./img/short/03.jpg",
+        "categoria": {
+            "nombre": "Short",
+            "id": "short"
+        },
+        "precio": 600
+    },
+    {
+        "id": "short-04",
+        "titulo": "Short Pull y Bear",
+        "imagen": "./img/short/04.jpg",
+        "categoria": {
+            "nombre": "Short",
+            "id": "short"
+        },
+        "precio": 550
+    },
+    {
+        "id": "short-5",
+        "titulo": "Short Pull y Bear",
+        "imagen": "./img/short/05.jpg",
+        "categoria": {
+            "nombre": "Short",
+            "id": "short"
+        },
+        "precio": 600
+    }
+]
